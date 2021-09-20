@@ -1,6 +1,6 @@
 ## Hi! I'm Thiago! Namaste  ☯
 
-### 🏋🏻‍♂️ About me:
+### 👨🏻‍💻 About me:
 
 - 🇧🇷 I'm 30 years old and I live in Brasila, Brazil
 - 👨🏻‍🎓 I'm majoring in **Data Science** from [Uninter university](https://portal.uninter.com/) 
