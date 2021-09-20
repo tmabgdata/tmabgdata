@@ -2,11 +2,10 @@
 
 ### 👨🏻‍💻 About me:
 
-- 🇧🇷 I'm 30 years old and I live in Brasila, Brazil
 - 👨🏻‍🎓 I'm majoring in **Data Science** from [Uninter university](https://portal.uninter.com/) 
 - 🛡 In the future I want to specialize in **Data Engineering** and **Data Security**
 - 📚 I currently study technologies, libraries, tools and concepts related to the vast universe of Data Science
-
+- 🙏🏻 Zen lifestyle and bodybuilding 💪🏻
 
 ### 🛠 Tech Stack:
 
