@@ -6,13 +6,12 @@
 
 ----
 
-## <img src="https://c.tenor.com/xMqxQCP226gAAAAC/rock-emoji.gif" height="40" width="40"> About me:
+## <img src="https://c.tenor.com/oRL3LmyUExYAAAAM/umm-zen.gif" height="40" width="40"> About me:
 
 - 👨🏻‍🎓 I'm majoring in **Data Science** from [Uninter university](https://portal.uninter.com/) 
 - 🛡 In the future I want to specialize in **Data Engineering** and **Data Security**
 - 📚 I currently study technologies, libraries, tools and concepts related to the vast universe of Data Science
 
-----
 
 ## <img src="https://www.mclab.com/images/T/Tool_animated.gif" height="40" width="40"> Tech Stack:
 
