@@ -9,8 +9,13 @@
 ## <img src="https://c.tenor.com/oRL3LmyUExYAAAAM/umm-zen.gif" height="40" width="40"> About me:
 
 - 👨🏻‍🎓 I'm majoring in **Data Science** from [Uninter university](https://portal.uninter.com/) 
-- 🛡 In the future I want to specialize in **Data Engineering** and **Data Security**
+- 📌 My short-term goal is to become a data specialist, to be able to collaborate on technology teams. I'm looking forward to it, and happy with the progress I'm making in learning.
 - 📚 I currently study technologies, libraries, tools and concepts related to the vast universe of Data Science
+- 👨🏻‍💻 I currently study in these Brazilian technology schools:
+
+  - Alura, complete platform, where I keep up to date on technologies, personal development and best practices in the job market. I currently study the course "Getting Started with Data Engineering" and English Language;
+
+  - IGTI (Institute of Management and Information Technology), teaching platform, focused on Bootcamps, MBA and postgraduate courses. I'm currently running the Data Analysis Bootcamp;
 
 ----
 
