@@ -1,7 +1,7 @@
 ## <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" height="40" width="40"> Hi, I'm Thiago
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF002&size=25&center=true&vCenter=true&lines=Data+never+lies">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF002&size=25&center=true&vCenter=true&lines=data+can+save+the+world">
 </p>
 
 ----
@@ -9,8 +9,7 @@
 ## <img src="https://c.tenor.com/oRL3LmyUExYAAAAM/umm-zen.gif" height="40" width="40"> About me:
 
 - 👨🏻‍🎓 I'm majoring in **Data Science** from [Uninter university](https://portal.uninter.com/) 
-- 📌 My short-term goal is to become a data specialist, to be able to collaborate on technology teams. I'm looking forward to it, and happy with the progress I'm making in learning.
-- 📚 I currently study technologies, libraries, tools and concepts related to the vast universe of Data Science
+- 📌 My short term professional goal is to become a data specialist, to be able to collaborate on technology teams. I'm looking forward to it, and happy with the progress I'm making in learning.
 - 👨🏻‍💻 I currently study in these Brazilian technology schools:
 
   - Alura, complete platform, where I keep up to date on technologies, personal development and best practices in the job market. I currently study the course "Getting Started with Data Engineering" and English Language;
