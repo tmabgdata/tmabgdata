@@ -10,10 +10,7 @@
 
 - 👨🏻‍🎓 I'm majoring in **Data Science** from [Uninter university](https://portal.uninter.com/) 
  
-- 📌 My short term professional goal is to become a data specialist, to be able to collaborate on technology teams. I'm looking forward to it, and happy with the progress I'm making in learning
- 
-- 👨🏻‍💻 I currently study at Alura, complete platform, where I keep up to date on technologies, personal development and best practices in the job market. I currently study the course "Getting Started with Data Engineering" and English Language
-
+- 📈 I am constantly updating on Data Science, its technologies and tools.
 ----
 
 ## <img src="https://www.mclab.com/images/T/Tool_animated.gif" height="40" width="40"> Learning the tech stack:
