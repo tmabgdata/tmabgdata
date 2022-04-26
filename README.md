@@ -42,12 +42,8 @@ tmabgdata@github
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Learning Databases and Cloud Hosting 😅
 
-<p>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</p>
 
 ### 💻 Software and Tools
 
