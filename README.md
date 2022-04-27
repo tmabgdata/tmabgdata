@@ -15,25 +15,20 @@ Hi, I'm Thiago Alves!
 tmabgdata@github
 -------------------------
 👨‍🔬 I'm currently majoring in Data Science
-👷‍♂️ Studying Data Engineering
-👨‍💻 Working on My Data Portfolio
 ☁ Learning about Big Data and Analytics
-🌟 Main languages: Python, Scala
+👨‍💻 Working on My Data Portfolio
+🌟 Main languages: Python & Scala
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Jiu Jitsu
-🎵 Love metal, symphonic
+🎵 Love metal & symphonic
 ```
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/Age-30-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Enigeering-brightgreen" /> 
-  <img src="https://img.shields.io/badge/Lives-Brazil-success" /> 
-  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English(basic)-brightgreen" /> 
+  <img src="https://img.shields.io/badge/Focus-Data%20Enigeering-blue" /> 
+  <img src="https://img.shields.io/badge/Lives-Brazil-blue" /> 
+  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English(basic)-blue" /> 
 </p>
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&cover_image=true&theme=novatorem&bar_color=450881&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -67,7 +62,7 @@ tmabgdata@github
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### ☁ Learning Hosting/SaaS 😅
+#### ☁ Learning Hosting/SaaS
 
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
