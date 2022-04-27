@@ -23,51 +23,61 @@ tmabgdata@github
 💖 In a complicated relationship with Jiu Jitsu
 🎵 Love metal, symphonic
 ```
-<hr>
-
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Age-30-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Enigeering-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Brazil-success" />
-  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English(basic)-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Enigeering-brightgreen" /> 
+  <img src="https://img.shields.io/badge/Lives-Brazil-success" /> 
+  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English(basic)-brightgreen" /> 
 </p>
 
+---
 
-## My Favorite Tools
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&redirect=true)
 
-### 👨‍💻 Programming Languages
+---
 
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+## 🛠 Tools
 
-### 🧰 Frameworks and Libraries
+#### 👨‍💻 Programming Languages
 
-<p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-</p>
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
-### 🗄️ Learning Databases and Cloud Hosting 😅
+#### 💾 Databases
+ 
+ ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+ 
+#### 📚 Frameworks, Platforms and Libraries
+ 
+ ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+ ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+ ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+ 
+#### 🦾 ML/DL
 
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 💻 Software and Tools
+#### ☁ Learning Hosting/SaaS 😅
 
-<p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## GitHub Stats
+--- 
+
+##  GitHub Stats
 
 
 |                                                                     Thiago's Stats                                                                      |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------: |  
-| ![Thiago's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tmabgdata&theme=react-dark&hide_border=true&area=true)                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------:|  
+| ![Thiago's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tmabgdata&theme=react-dark&hide_border=true&area=true)                     |
 | ![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=tmabgdata&show_icons=true&theme=algolia)                                   | 
 | ![Thiago's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tmabgdata&theme=algolia)                                               | 
     
@@ -76,16 +86,14 @@ tmabgdata@github
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tmabgdata&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&langs_count=8&theme=algolia&layout=compact) |
 
-
 <div align="center">
 
-  ---
+ ---
+ ## Let's Connect
 
-## Connect With Me
-
-  <a href="mailto:tma.bigdata@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/thiago-bigdata/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/thiago_krz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://open.spotify.com/user/22a2z4k55o43faugahu6s6a5a?si=52605955186f43b2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+   <a href="mailto:tma.bigdata@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+   <a href="https://www.linkedin.com/in/thiago-bigdata/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://www.instagram.com/thiago_krz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+   <a href="https://open.spotify.com/user/22a2z4k55o43faugahu6s6a5a?si=52605955186f43b2" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </div>
