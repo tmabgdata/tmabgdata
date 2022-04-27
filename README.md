@@ -14,18 +14,18 @@ Hi, I'm Thiago Alves!
 ```
 tmabgdata@github
 -------------------------
-👨‍🔬 I'm currently majoring in Data Science
-☁ Learning about Big Data and Analytics
+👨‍🎓 I'm currently majoring in Data Science
+👨‍🔬 Learning about Big Data and Analytics
 👨‍💻 Working on My Data Portfolio
-🌟 Main languages: Python & Scala
-🚩 Interested in Full Stack Machine Learning Application development
+📚 Main languages: Python & Scala
+🎲 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Jiu Jitsu
 🎵 Love metal & symphonic
 ```
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/Age-30-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Enigeering-blue" /> 
+  <img src="https://img.shields.io/badge/Focus-Data%20Pipeline-blue" /> 
   <img src="https://img.shields.io/badge/Lives-Brazil-blue" /> 
   <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English(basic)-blue" /> 
 </p>
