@@ -33,7 +33,7 @@ tmabgdata@github
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&cover_image=true&theme=default&bar_color=1c28ce&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -75,20 +75,17 @@ tmabgdata@github
 ##  GitHub Stats
 
 
-|                                                                     Thiago's Stats                                                                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------:|  
-| ![Thiago's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tmabgdata&theme=react-dark&hide_border=true&area=true)                     |
-| ![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=tmabgdata&show_icons=true&theme=algolia)                                   | 
-| ![Thiago's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tmabgdata&theme=algolia)                                               | 
-    
+|                                                                     Thiago's Stats                                                                       |
+|  :-----------------------------------------------------------------------------------------------------------------------------------------------------: |  
+|                                                                                                                                                          |  
+| ![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=tmabgdata&show_icons=true&theme=algolia)                                    | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&langs_count=8&theme=algolia&layout=compact)                        |                                                                                                                                                        |
 
-|                                                                                                      Thiago's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=tmabgdata&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&langs_count=8&theme=algolia&layout=compact) |
 
 <div align="center">
 
  ---
+ 
  ## Let's Connect
 
    <a href="mailto:tma.bigdata@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
