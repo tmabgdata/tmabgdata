@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Thiago Alves!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/tmabgdata" alt="Profile views" align='right'/> <a href="https://github.com/tmabgdata"> </a> 
+ <img src="https://komarev.com/ghpvc/?username=tmabgdata&color=blue&&style=for-the-badge&label=PROFILE+VIEWS" align='right'/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
