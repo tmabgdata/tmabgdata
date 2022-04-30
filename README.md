@@ -76,7 +76,7 @@ tmabgdata@github
 |  :-----------------------------------------------------------------------------------------------------------------------------------------------------: |  
 |                                                                                                                                                          |  
 | ![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=tmabgdata&show_icons=true&theme=algolia)                                    | 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&layout=compact&show_icons=true&theme=algolia)](https://github.com/tmabgdata/github-readme-stats)                        |                                                                                                                                                        |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&layout=compact&show_icons=true&theme=algolia)                        |                                                                                                                                                        |
 
 
 <div align="center">
