@@ -17,7 +17,7 @@ tmabgdata@github
 👨‍🎓 I'm currently majoring in Data Science
 👨‍🔬 Learning about Big Data and Analytics
 👨‍💻 Working on My Data Portfolio
-📚 Main languages: Python & Scala
+📚 Main languages: SQL, Python & Scala
 🎲 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Jiu Jitsu
 🎵 Love metal & symphonic
