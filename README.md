@@ -1,6 +1,7 @@
 <h1 align="center">
-Hi, I'm Thiago Alves!
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+ Hi, I'm Thiago Alves!
+</h1>
  <a href="https://github.com/tmabgdata"><img src="https://komarev.com/ghpvc/?username=tmabgdata&color=blue&&style=for-the-badge&label=PROFILE+VIEWS" align='right'/></a>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -32,7 +33,7 @@ tmabgdata@github
 
 ---
 
-## 🛠 Tools
+## <img width="50" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"> Tech Stack
 
 #### 👨‍💻 Programming Languages
 
@@ -67,22 +68,8 @@ tmabgdata@github
  [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 --- 
-
-##  GitHub Stats
-
-
-|                                                                     Thiago's Stats                                                                       |
-|  :-----------------------------------------------------------------------------------------------------------------------------------------------------: |  
-|                                                                                                                                                          |  
-| ![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=tmabgdata&show_icons=true&theme=algolia)                                    | 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&layout=compact&show_icons=true&theme=algolia)                      |                                                                                                                                                       
-
-
-<div align="center">
-
- ---
  
- ## Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Connect with me
 
    <a href="mailto:tma.bigdata@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
    <a href="https://www.linkedin.com/in/thiago-bigdata/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
