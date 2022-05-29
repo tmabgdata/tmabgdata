@@ -20,7 +20,7 @@ tmabgdata@github
 👨‍💻 Working on My Data Portfolio
 📚 Main languages: SQL, Python & Scala
 🎲 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Jiu Jitsu
+🎮 I did not choose the support life, the support life chose me
 🎵 Love metal & symphonic
 ```
 ---
