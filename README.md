@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Training+Data+Engineering;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="TheDudeThatCode" width="320" />
+<img align="left" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="abhisheknaiidu" width="360" />
 <hr>
 
 ```
@@ -32,6 +32,12 @@ tmabgdata@github
 </p>
 
 ---
+
+
+
+## <img width="50" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/61/0f/e6/610fe62678608c4871fea488884efe5d.gif"> Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&redirect=true)
 
 ## <img width="50" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"> Tech Stack
 
