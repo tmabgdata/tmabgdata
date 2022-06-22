@@ -25,7 +25,7 @@ tmabgdata@github
 ```
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-30-blue" />
+  <img src="https://img.shields.io/badge/Age-31-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Pipeline-blue" /> 
   <img src="https://img.shields.io/badge/Lives-Brazil-blue" /> 
   <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20Intermediary English-blue" /> 
