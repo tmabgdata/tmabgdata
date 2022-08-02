@@ -33,12 +33,6 @@ tmabgdata@github
 
 ---
 
-
-
-## <img width="50" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/61/0f/e6/610fe62678608c4871fea488884efe5d.gif"> Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22a2z4k55o43faugahu6s6a5a&redirect=true)
-
 ## <img width="50" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"> Tech Stack
 
 #### 👨‍💻 Programming Languages
@@ -67,7 +61,7 @@ tmabgdata@github
 
  [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
-#### ☁ Learning Hosting/SaaS
+#### ☁ Cloud
 
  [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
  [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/)
@@ -79,5 +73,7 @@ tmabgdata@github
 
    <a href="mailto:tma.bigdata@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
    <a href="https://www.linkedin.com/in/thiago-bigdata/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://open.spotify.com/user/22a2z4k55o43faugahu6s6a5a/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+   <a href="https://steamcommunity.com/profiles/76561198077042046" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 
 </div>
