@@ -22,3 +22,7 @@ I'm an upcoming data science professional graduating this October with extensive
 ### 🤝 Collaborating
 
 Please feel free to contact me to discuss any opportunities or collaborations. I look forward to learning and growing as a data scientist and contributing to the success of any organization I join.
+
+<p align="center">
+  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jSPPW92N/ds1.jpg' border='0' alt='ds1'/></a>
+</p>
