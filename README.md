@@ -1,22 +1,24 @@
-<h1 align="center">
- Hi, I'm Thiago Alves!
-</h1>
- <a href="https://github.com/tmabgdata"><img src="https://komarev.com/ghpvc/?username=tmabgdata&color=blue&&style=for-the-badge&label=PROFILE+VIEWS" align='right'/></a>
+# Hi there, I'm Thiago Alves 👋🏻
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Big+Data+|+Data+Science&center=true&width=380&height=45"></a>
-</p>
+I'm an upcoming data science professional graduating this October with extensive knowledge in data science technologies. I am looking to join a dynamic team as an intern data scientist and support the data, technology, and business teams. My ultimate goal is to harness the power of data to make better business decisions and improve overall performance.
 
-<img align="left" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="abhisheknaiidu" width="320" />
-<hr>
+### 💻 Tech Stack
 
-```
-tmabgdata@github
--------------------------
-👨‍🎓 I'm currently majoring in Data Science
-👨‍🔬 Learning about Big Data and Analytics
-👨‍💻 Working on My Data Portfolio
-📚 Main languages: SQL, Python
-🎲 Interested in Full Stack Machine Learning Application development
-```
+- **Programming Languages:** Python, R, SQL
+- **Data Science tools:** Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn
+- **Data Warehouse tools:** DBT, Snowflake, Redshift, BigQuery
+- **BigData Engineering tools:** MongoDB, Apache Airflow, Apache Spark, Databricks
+- **Data Visualization tools**: Google Sheets, Google Looker Studio, Power BI
+
+### 📊 Experience
+
+- Worked on several data science projects in university, such as analyzing customer churn for a telecommunication company and predicting diabetes diagnosis using machine learning algorithms.
+- I work in diversified courses on Data Science and modern Data Engineering.
+
+### 🎓 Education
+
+- Data Science Technology's Degree, [Uninter](https://www.uninter.com/), October 2023
+
+### 🤝 Collaborating
+
+Please feel free to contact me to discuss any opportunities or collaborations. I look forward to learning and growing as a data scientist and contributing to the success of any organization I join.
