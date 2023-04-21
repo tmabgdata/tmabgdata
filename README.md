@@ -7,7 +7,7 @@ I'm an upcoming data science professional graduating this October with extensive
 - **Programming Languages:** Python, R, SQL
 - **Data Science tools:** Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn
 - **Data Warehouse tools:** DBT, Snowflake, Redshift, BigQuery
-- **BigData Engineering tools:** MongoDB, Apache Airflow, Apache Spark, Databricks
+- **BigData Engineering tools:** MongoDB, Redis, Apache Airflow, Apache Spark, Databricks
 - **Data Visualization tools**: Google Sheets, Google Looker Studio, Power BI
 
 ### 📊 Experience
