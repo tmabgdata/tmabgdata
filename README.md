@@ -1,7 +1,6 @@
-# Hi there, I'm Thiago Alves 👋🏻
+### Hi there, I'm Thiago Alves 👋🏻
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="abhisheknaiidu" min-width="300px" max-width="300px" width="300px" align="right" />
-<hr>
 
 <p align="left">
 I'm an upcoming data science professional graduating this October with extensive knowledge in data science technologies. I am looking to join a dynamic team as an intern data scientist and support the data, technology, and business teams. My ultimate goal is to harness the power of data to make better business decisions and improve overall performance.
