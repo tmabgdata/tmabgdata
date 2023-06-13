@@ -8,11 +8,11 @@ I'm an upcoming data science professional graduating this October with extensive
 
 ### 💻 Tech Stack
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, SQL
 - **Data Science tools:** Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn
 - **Data Warehouse tools:** DBT, Snowflake, Redshift, BigQuery
 - **BigData Engineering tools:** MongoDB, Redis, Apache Airflow, Apache Spark, Databricks
-- **Data Visualization tools**: Google Sheets, Google Looker Studio, Power BI
+- **Data Visualization tools**: Spreadsheets, Power BI, Tableau, Google Looker Studio
 
 ### 📊 Experience
 
