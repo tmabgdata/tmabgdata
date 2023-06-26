@@ -30,6 +30,6 @@ Please feel free to contact me to discuss any opportunities or collaborations. I
 
 <p align="center">
 <a href="https://github.com/tmabgdata/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&show_icons=true&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&show_icons=true&layout=compact&theme=shades-of-purple" />
 </a> 
 </p>
