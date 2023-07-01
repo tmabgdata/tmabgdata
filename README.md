@@ -5,13 +5,33 @@
 
 <br>
 
+### 👨🏻‍💻 About
+
+- 👨🏻‍🎓 Bachelor of Technology in Data Science (expected to finish in October 2023)
+- 🕵🏻‍♂️ Data Analyst Certified by XP Education
+- 🎲 Semantix AI Certified Big Data Engineer
+
+### 📚 Skills
+
+- 🧱 Data Engineering Skills:
+  - 💻 Development of Modern Pipelines with SQL and DBT;
+  - 💻 Development of Modern ELT and ETL Pipelines with Apache Airflow;
+  - 💻 Data Warehouse development with Snowflake, AWS Redshift and Google BigQuery;
+  - 💻 Development of data processing applications with Apache Spark;
+
+- 🕵🏻‍♂️ Data Analysis Skills:
+  - 📊 Data processing and analysis with Excel, SQL and Python;
+  - 📊 Development of Data Reports and Dashboards with Power BI, Google Looker Studio and Tableau;
+
 ### 💻 Tech Stack
 
-- **Programming Languages:** Python, SQL
-- **Data Science:** Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn
-- **Data Warehouse:** Snowflake, Redshift, BigQuery
-- **BigData Engineering:** DBT, Apache Airflow, Apache Spark
-- **Data Visualization:** Power BI, Tableau, Google Looker Studio
+- 💻 Programming and Data Languages: Python, SQL
+- 📚 Libraries for Data Science: Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn
+- 💾 Modern Data Warehouse: DBT, Snowflake, Redshift, BigQuery
+- ⚙ BigData Engineering: Apache Airflow, Apache Spark
+- 📊 Data Visualization: Power BI, Tableau, Google Looker Studio, Excel
+
+## 👨🏻‍💼 In career transition, I am available to work as a Data Analyst or Data Engineer. Contact Me!
 
 <br>
 <p align="center">
