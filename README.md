@@ -29,9 +29,7 @@
 - 📚 Libraries for Data Science: Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn
 - 💾 Modern Data Warehouse: DBT, Snowflake, Redshift, BigQuery
 - ⚙ BigData Engineering: Apache Airflow, Apache Spark
-- 📊 Data Visualization: Power BI, Tableau, Google Looker Studio, Excel
-
-## 👨🏻‍💼 In career transition, I am available to work as a Data Analyst or Data Engineer. Contact Me!
+- 📊 Data Visualization: Power BI, Tableau, Google Looker Studio
 
 <br>
 <p align="center">
