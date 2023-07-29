@@ -32,8 +32,16 @@
 - 📊 Data Visualization: Power BI, Tableau, Google Looker Studio
 
 <br>
+
+
 <p align="center">
-<a href="https://github.com/tmabgdata/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&show_icons=true&layout=compact&theme=shades-of-purple" />
-</a> 
+  <a href="https://github.com/tmabgdata/Engenharia-de-Dados">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Engenharia-de-Dados&show_icons=true&theme=shades-of-purple" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tmabgdata/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&show_icons=true&layout=compact&theme=shades-of-purple" />
+  </a> 
 </p>
