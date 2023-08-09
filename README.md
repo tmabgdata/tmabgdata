@@ -34,9 +34,15 @@
 <br>
 
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/tmabgdata/Engenharia-de-Dados">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Engenharia-de-Dados&show_icons=true&theme=shades-of-purple" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/tmabgdata/Analises-de-Dados">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Analises-de-Dados&show_icons=true&theme=shades-of-purple" />
   </a>
 </p>
 
