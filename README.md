@@ -46,12 +46,12 @@
 ## 📈 Related Projects
 
 <div>
-  <a href="https://github.com/tmabgdata/Engenharia-de-Dados" style="flex: 50%; padding: 0 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Engenharia-de-Dados&show_icons=true&theme=shades-of-purple" />
+  <a href="https://github.com/tmabgdata/Data-Engineering" style="flex: 50%; padding: 0 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Engineering&show_icons=true&theme=shades-of-purple" />
   </a>
   
-  <a href="https://github.com/tmabgdata/Analises-de-Dados" style="flex: 50%; padding: 0 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Analises-de-Dados&show_icons=true&theme=shades-of-purple" />
+  <a href="https://github.com/tmabgdata/Data-Science" style="flex: 50%; padding: 0 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Science&show_icons=true&theme=shades-of-purple" />
   </a>
 </div>
 
