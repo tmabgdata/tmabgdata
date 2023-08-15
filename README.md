@@ -23,6 +23,15 @@
   - 📊 Data processing and analysis with Excel, SQL and Python;
   - 📊 Development of Data Reports and Dashboards with Power BI, Google Looker Studio and Tableau;
 
+- 📊 Data Science Skills:
+  - 📈 Exploratory Data Analysis (EDA)
+  - 📊 Data Visualization with Matplotlib, Seaborn, Plotly
+  - 📈 Statistical Analysis and Hypothesis Testing
+  - 📈 Machine Learning with Scikit-learn, TensorFlow, Keras
+  - 📊 Feature Engineering and Selection
+  - 📊 Model Evaluation and Hyperparameter Tuning
+
+
 ### 💻 Tech Stack
 
 - 💻 Programming and Data Languages: Python, SQL
