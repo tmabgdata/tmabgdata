@@ -1,62 +1,81 @@
-## Hi there, I'm Thiago Alves 👋🏻
+# Hi there, I'm Thiago Alves 👋🏻
 
-<br>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="abhisheknaiidu" min-width="300px" max-width="300px" width="300px" align="center" />
+<div align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="300px"/> </div>
 
-<br>
+## 👨🏻‍💻 About Me
 
-### 👨🏻‍💻 About
+- 🎓 Bachelor in Technology in Data Science (Expected: June 2025)
+- 📊 Certified Data Analyst (XP Education Bootcamp)
+- 🔗 Certified Big Data Engineer (Semantix AI Bootcamp)
+- 💡 Passionate about solving real-world problems using Data Science, Machine Learning, and Data Engineering.
+- 🚀 Currently exploring Generative AI, AI Agents, and advanced Machine Learning techniques.
 
-- 👨🏻‍🎓 Bachelor of Technology in Data Science (expected to finish in October 2023)
-- 🕵🏻‍♂️ Data Analyst Certified by XP Education
-- 🎲 Semantix AI Certified Big Data Engineer
+## 📚 Skills
 
-### 📚 Skills
+### 🧱 Data Engineering
 
-- 🧱 Data Engineering Skills:
-  - 💻 Development of Modern Pipelines with SQL and DBT;
-  - 💻 Development of Modern ELT and ETL Pipelines with Apache Airflow;
-  - 💻 Data Warehouse development with Snowflake, AWS Redshift and Google BigQuery;
-  - 💻 Development of data processing applications with Apache Spark;
+- 🌐 Modern data pipeline development with SQL and dbt.
 
-- 🕵🏻‍♂️ Data Analysis Skills:
-  - 📊 Data processing and analysis with Excel, SQL and Python;
-  - 📊 Development of Data Reports and Dashboards with Power BI, Google Looker Studio and Tableau;
+- ☁️ Cloud computing projects with Snowflake, AWS Redshift, and Google BigQuery.
 
-- 📊 Data Science Skills:
-  - 📈 Exploratory Data Analysis (EDA)
-  - 📊 Data Visualization with Matplotlib, Seaborn, Plotly
-  - 📈 Statistical Analysis and Hypothesis Testing
-  - 📈 Machine Learning with Scikit-learn, TensorFlow, Keras
-  - 📊 Feature Engineering and Selection
-  - 📊 Model Evaluation and Hyperparameter Tuning
+- 🔄 ETL/ELT pipeline creation using Apache Airflow.
+
+- ⚡ Scalable data processing applications with Apache Spark.
+
+### 🕵🏻‍♂️ Data Analysis
+
+- 📊 Data manipulation and analysis with Excel, SQL, and Python.
+
+- 📈 Development of reports and dashboards using Power BI, Google Looker Studio, and Tableau.
+
+### 🤖 Data Science & Machine Learning
+
+- 🧪 Exploratory Data Analysis (EDA) and visualization with Matplotlib, Seaborn, and Plotly.
+
+- 📈 Machine learning development with Scikit-learn, TensorFlow, and Keras.
+
+- 🛠 Feature engineering, model evaluation, and hyperparameter tuning.
+
+- 📉 Statistical analysis and hypothesis testing for robust insights.
+
+## 💻 Tech Stack
+
+- Languages: Python, SQL
+
+- Libraries: Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, Keras
+
+- Data Engineering: Apache Airflow, Apache Spark
+
+- Data Warehousing: dbt, Snowflake, Redshift, BigQuery
+
+- Visualization Tools: Power BI, Tableau, Google Looker Studio
 
 
-### 💻 Tech Stack
+## 🚀 Featured Projects
 
-- 💻 Programming and Data Languages: Python, SQL
-- 📚 Libraries for Data Science: Pandas, Numpy, Matplotlib, TensorFlow, Keras, Scikit-learn
-- 💾 Modern Data Warehouse: DBT, Snowflake, Redshift, BigQuery
-- ⚙ BigData Engineering: Apache Airflow, Apache Spark
-- 📊 Data Visualization: Power BI, Tableau, Google Looker Studio
-
-<br>
-
-
-## 📈 Related Projects
-
-<div>
-  <a href="https://github.com/tmabgdata/Data-Engineering" style="flex: 50%; padding: 0 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Engineering&show_icons=true&theme=shades-of-purple" />
-  </a>
-  
-  <a href="https://github.com/tmabgdata/Data-Science" style="flex: 50%; padding: 0 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Science&show_icons=true&theme=shades-of-purple" />
-  </a>
+<div align="center"> 
+  <a href="https://github.com/tmabgdata/Data-Engineering"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Engineering&show_icons=true&theme=shades-of-purple" alt="Data Engineering Repository"/> </a> 
+  <a href="https://github.com/tmabgdata/Data-Science"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Science&show_icons=true&theme=shades-of-purple" alt="Data Science Repository"/> </a> 
 </div>
 
-<p align="center">
-  <a href="https://github.com/tmabgdata/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&show_icons=true&layout=compact&theme=shades-of-purple" />
-  </a> 
-</p>
+
+## 📈 GitHub Stats
+
+<p align="center"> <a href="https://github.com/tmabgdata/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmabgdata&layout=compact&theme=shades-of-purple" alt="Most Used Languages"/> </a> </p>
+
+## 📫 Contact Me
+
+- LinkedIn: [Thiago Alves](https://www.linkedin.com/in/thiago-bigdata/)
+
+- Email: [Gmail](mailto:tma.bigdata@gmail.com)
+
+## Updates:
+
+- ⚙️ Coming Soon: Dash-based data visualization projects.
+
+- 📦 Next Steps: Advanced AI and Generative AI initiatives.
+
+## By **Thiago Alves** <br> ✨ *Driven by data, powered by knowledge!* ✨
+
