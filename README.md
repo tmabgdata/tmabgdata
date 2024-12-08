@@ -16,7 +16,7 @@
 
 - 🌐 Modern data pipeline development with SQL and dbt.
 
-- ☁️ Cloud computing projects with Snowflake, AWS Redshift, and Google BigQuery.
+- ☁️ Cloud computing projects with Microsoft Azure, Snowflake, AWS Redshift, and Google BigQuery.
 
 - 🔄 ETL/ELT pipeline creation using Apache Airflow.
 
@@ -46,7 +46,7 @@
 
 - Data Engineering: Apache Airflow, Apache Spark
 
-- Data Warehousing: dbt, Snowflake, Redshift, BigQuery
+- Data Warehousing: dbt, Snowflake, Redshift, BigQuery, Synapse Analytics
 
 - Visualization Tools: Power BI, Tableau, Google Looker Studio
 
