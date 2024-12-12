@@ -54,10 +54,12 @@
 ## 🚀 Featured Projects
 
 <div align="center"> 
+  
+  <a href="https://github.com/tmabgdata/Data-Science"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Science&show_icons=true&theme=shades-of-purple" alt="Data Science Repository"/> </a>
   <a href="https://github.com/tmabgdata/Data-Engineering"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Engineering&show_icons=true&theme=shades-of-purple" alt="Data Engineering Repository"/> </a> 
-  <a href="https://github.com/tmabgdata/Data-Science"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Data-Science&show_icons=true&theme=shades-of-purple" alt="Data Science Repository"/> </a> 
+     
 </div>
 
 
