@@ -28,6 +28,20 @@
         </a>  
       </td>
     </tr>
+    <!--
+    <tr>
+      <td>
+        <a href="https://github.com/tmabgdata/NLP-Projects">  
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=NLP-Projects&theme=radical" alt="NLP Projects Repository" />  
+        </a>  
+      </td>
+      <td>
+        <a href="https://github.com/tmabgdata/Marketing-Analytics">  
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Marketing-Analytics&theme=radical" alt="Marketing Analytics Repository" />  
+        </a>  
+      </td>
+    </tr>
+    -->
   </table>  
 </div>  
 
@@ -72,6 +86,7 @@
 - 💼 [LinkedIn: Thiago Alves](https://www.linkedin.com/in/thiago-bigdata/)  
 - 📧 [Email: tma.bigdata@gmail.com](mailto:tma.bigdata@gmail.com)  
 - 📱 [WhatsApp: Thiago Alves](https://wa.me/5561981918217)  
+
 ---
 
 ### Updates  
