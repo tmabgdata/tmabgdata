@@ -6,9 +6,9 @@
 
 ## 🎯 About Me  
 
-- 🎓 **Bachelor in Technology in Data Science**  
+- 🎓 **Technology in Data Science**  
 - 💡 **Passionate about solving real-world problems** using Data Science, Machine Learning, and Data Engineering.  
-- 🚀 **Currently exploring:** Generative AI, AI Agents, and advanced Machine Learning techniques.  
+- 🚀 **Currently exploring:** Analytics, Business Intelligence, and Insight Generation — delivering value through data, actionable insights, impactful analyses, and compelling visualizations.
 
 ---
 
@@ -28,20 +28,6 @@
         </a>  
       </td>
     </tr>
-    <!--
-    <tr>
-      <td>
-        <a href="https://github.com/tmabgdata/NLP-Projects">  
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=NLP-Projects&theme=radical" alt="NLP Projects Repository" />  
-        </a>  
-      </td>
-      <td>
-        <a href="https://github.com/tmabgdata/Marketing-Analytics">  
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tmabgdata&repo=Marketing-Analytics&theme=radical" alt="Marketing Analytics Repository" />  
-        </a>  
-      </td>
-    </tr>
-    -->
   </table>  
 </div>  
 
@@ -50,6 +36,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-F25022?style=for-the-badge&logo=microsoft-fabric&logoColor=white" alt="Microsoft Fabric" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -83,7 +71,7 @@
 
 ## 📫 Contact Me  
 
-- 💼 [LinkedIn: Thiago Alves](https://www.linkedin.com/in/thiago-bigdata/)  
+- 💼 [LinkedIn: Thiago Alves](https://www.linkedin.com/in/thiagoalves-analytics)  
 - 📧 [Email: tma.bigdata@gmail.com](mailto:tma.bigdata@gmail.com)  
 - 📱 [WhatsApp: Thiago Alves](https://wa.me/5561981918217)  
 
@@ -91,5 +79,4 @@
 
 ### Updates  
 
-- ⚙️ **Coming Soon:** Dash-based visualization projects.  
-- 📦 **Next Steps:** Advanced AI initiatives in Generative AI.  
+- ⚙️ **Coming Soon:** End-to-End Analytics Engineer Projects.    
